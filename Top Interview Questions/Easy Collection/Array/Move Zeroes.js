@@ -5,6 +5,6 @@ const moveZeroes = function (nums) {
   // console.log(nums.join('').replace(regExp, '').split(''));
   console.log(nums.join(',').replace(regExp2, '').split(','));
   console.log(num_len);
-};
+}
 
 console.log(moveZeroes([0, 1, 0, 3, 12]));
