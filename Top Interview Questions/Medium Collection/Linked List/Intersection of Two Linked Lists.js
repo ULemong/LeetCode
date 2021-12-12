@@ -29,4 +29,4 @@ const getIntersectionNode = function(headA, headB) {
       }
           
       return curA;
-};
+}
