@@ -5,4 +5,4 @@ const searchInsert = function(nums, target) {
         nums.sort((x, y) => x - y);
         return nums.indexOf(target);
     }
-}
+};
